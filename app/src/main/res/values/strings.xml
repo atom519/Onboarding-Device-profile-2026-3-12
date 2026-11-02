@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Clash2V2Ray</string>
+    <string name="app_subtitle">Clash转V2rayN节点转换与测速工具</string>
+    <string name="input_tab_text">配置输入</string>
+    <string name="input_tab_url">订阅链接</string>
+    <string name="input_tab_sample">示例配置</string>
+    <string name="action_convert">开始转换</string>
+    <string name="action_test_ping">连通性测速</string>
+    <string name="action_filter_invalid">过滤失效节点</string>
+    <string name="action_copy_all">复制全部节点</string>
+    <string name="action_copy_base64">复制Base64订阅</string>
+    <string name="action_clear">清空</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Clash2V2Ray",
+  "description": "Clash配置转V2rayN格式节点转换工具，支持批量转换VMess、VLESS、SS、Trojan、Hysteria2等链接并自动连通性测速与失效过滤",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
